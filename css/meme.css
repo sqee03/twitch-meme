@@ -1,0 +1,177 @@
+@-moz-keyframes slide-in {
+  from {
+    -webkit-transform: translateY(calc(100% + 54px + 10px));
+    -moz-transform: translateY(calc(100% + 54px + 10px));
+    -ms-transform: translateY(calc(100% + 54px + 10px));
+    -o-transform: translateY(calc(100% + 54px + 10px));
+    transform: translateY(calc(100% + 54px + 10px)); }
+  to {
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0); } }
+@-webkit-keyframes slide-in {
+  from {
+    -webkit-transform: translateY(calc(100% + 54px + 10px));
+    -moz-transform: translateY(calc(100% + 54px + 10px));
+    -ms-transform: translateY(calc(100% + 54px + 10px));
+    -o-transform: translateY(calc(100% + 54px + 10px));
+    transform: translateY(calc(100% + 54px + 10px)); }
+  to {
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0); } }
+@-o-keyframes slide-in {
+  from {
+    -webkit-transform: translateY(calc(100% + 54px + 10px));
+    -moz-transform: translateY(calc(100% + 54px + 10px));
+    -ms-transform: translateY(calc(100% + 54px + 10px));
+    -o-transform: translateY(calc(100% + 54px + 10px));
+    transform: translateY(calc(100% + 54px + 10px)); }
+  to {
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0); } }
+@-ms-keyframes slide-in {
+  from {
+    -webkit-transform: translateY(calc(100% + 54px + 10px));
+    -moz-transform: translateY(calc(100% + 54px + 10px));
+    -ms-transform: translateY(calc(100% + 54px + 10px));
+    -o-transform: translateY(calc(100% + 54px + 10px));
+    transform: translateY(calc(100% + 54px + 10px)); }
+  to {
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0); } }
+@keyframes slide-in {
+  from {
+    -webkit-transform: translateY(calc(100% + 54px + 10px));
+    -moz-transform: translateY(calc(100% + 54px + 10px));
+    -ms-transform: translateY(calc(100% + 54px + 10px));
+    -o-transform: translateY(calc(100% + 54px + 10px));
+    transform: translateY(calc(100% + 54px + 10px)); }
+  to {
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0); } }
+@-moz-keyframes slide-out {
+  from {
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0); }
+  to {
+    -webkit-transform: translateY(calc(100% + 64.8px - 10px));
+    -moz-transform: translateY(calc(100% + 64.8px - 10px));
+    -ms-transform: translateY(calc(100% + 64.8px - 10px));
+    -o-transform: translateY(calc(100% + 64.8px - 10px));
+    transform: translateY(calc(100% + 64.8px - 10px)); } }
+@-webkit-keyframes slide-out {
+  from {
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0); }
+  to {
+    -webkit-transform: translateY(calc(100% + 64.8px - 10px));
+    -moz-transform: translateY(calc(100% + 64.8px - 10px));
+    -ms-transform: translateY(calc(100% + 64.8px - 10px));
+    -o-transform: translateY(calc(100% + 64.8px - 10px));
+    transform: translateY(calc(100% + 64.8px - 10px)); } }
+@-o-keyframes slide-out {
+  from {
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0); }
+  to {
+    -webkit-transform: translateY(calc(100% + 64.8px - 10px));
+    -moz-transform: translateY(calc(100% + 64.8px - 10px));
+    -ms-transform: translateY(calc(100% + 64.8px - 10px));
+    -o-transform: translateY(calc(100% + 64.8px - 10px));
+    transform: translateY(calc(100% + 64.8px - 10px)); } }
+@-ms-keyframes slide-out {
+  from {
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0); }
+  to {
+    -webkit-transform: translateY(calc(100% + 64.8px - 10px));
+    -moz-transform: translateY(calc(100% + 64.8px - 10px));
+    -ms-transform: translateY(calc(100% + 64.8px - 10px));
+    -o-transform: translateY(calc(100% + 64.8px - 10px));
+    transform: translateY(calc(100% + 64.8px - 10px)); } }
+@keyframes slide-out {
+  from {
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0); }
+  to {
+    -webkit-transform: translateY(calc(100% + 64.8px - 10px));
+    -moz-transform: translateY(calc(100% + 64.8px - 10px));
+    -ms-transform: translateY(calc(100% + 64.8px - 10px));
+    -o-transform: translateY(calc(100% + 64.8px - 10px));
+    transform: translateY(calc(100% + 64.8px - 10px)); } }
+@-moz-keyframes timer {
+  from {
+    width: 0; }
+  to {
+    width: 100%; } }
+@-webkit-keyframes timer {
+  from {
+    width: 0; }
+  to {
+    width: 100%; } }
+@-o-keyframes timer {
+  from {
+    width: 0; }
+  to {
+    width: 100%; } }
+@-ms-keyframes timer {
+  from {
+    width: 0; }
+  to {
+    width: 100%; } }
+@keyframes timer {
+  from {
+    width: 0; }
+  to {
+    width: 100%; } }
+body {
+  margin: 0 auto;
+  overflow: hidden;
+  background: url(../img/sample-stream-screen.jpg);
+  background-size: cover; }
+
+html, body {
+  margin: 0;
+  padding: 0; }
+
+#meme {
+  position: absolute;
+  right: 5%;
+  bottom: 0;
+  width: 112px;
+  height: 112px;
+  background: url(../img/lul.png) no-repeat left bottom;
+  -webkit-animation: slide-in 0.8s 0.1s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards, slide-out 0.8s 3.4s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards;
+  -moz-animation: slide-in 0.8s 0.1s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards, slide-out 0.8s 3.4s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards;
+  -ms-animation: slide-in 0.8s 0.1s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards, slide-out 0.8s 3.4s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards;
+  -o-animation: slide-in 0.8s 0.1s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards, slide-out 0.8s 3.4s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards;
+  animation: slide-in 0.8s 0.1s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards, slide-out 0.8s 3.4s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards; }
